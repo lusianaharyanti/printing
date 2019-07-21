@@ -1,0 +1,2314 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Naturecircle 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2018-08-15 15:18+0700\n"
+"PO-Revision-Date: 2015-12-14 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../naturecircle/404.php:19
+msgid "PAGE NOT BE FOUND"
+msgstr ""
+
+#: ../naturecircle/404.php:20
+msgid ""
+"Sorry but the page you are looking for does not exist, have been removed, name changed or is "
+"temporarity unavailable."
+msgstr ""
+
+#: ../naturecircle/404.php:22
+msgid "Back to home"
+msgstr ""
+
+#: ../naturecircle/404.php:22
+msgid "Back to home page"
+msgstr ""
+
+#: ../naturecircle/archive.php:63 ../naturecircle/author.php:57 ../naturecircle/category.php:57
+#: ../naturecircle/functions.php:1012 ../naturecircle/image.php:48 ../naturecircle/index.php:70
+#: ../naturecircle/search.php:51 ../naturecircle/single.php:47 ../naturecircle/tag.php:57
+#: ../naturecircle/theme-config.php:1078
+msgid "Blog"
+msgstr ""
+
+#: ../naturecircle/author.php:83
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../naturecircle/author.php:112
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../naturecircle/category.php:75
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:327 ../naturecircle/functions.php:1424
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:328 ../naturecircle/functions.php:1425
+msgid "Install Plugins"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:330 ../naturecircle/functions.php:1426
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:333 ../naturecircle/functions.php:1427
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:385 ../naturecircle/functions.php:1438
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:386
+#: ../naturecircle/class-tgm-plugin-activation.php:827
+#: ../naturecircle/class-tgm-plugin-activation.php:2533
+#: ../naturecircle/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:387
+#: ../naturecircle/class-tgm-plugin-activation.php:3159 ../naturecircle/functions.php:1439
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:388
+#: ../naturecircle/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please update the "
+"plugin."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and renaming did "
+"not work."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:934
+#: ../naturecircle/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according to the "
+"WordPress guidelines."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not packaged in "
+"a folder."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2554
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:42
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:63
+msgid "Status"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3509
+#: ../naturecircle/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3509
+#: ../naturecircle/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so please "
+"be patient."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../naturecircle/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../naturecircle/comments.php:31 ../naturecircle/functions.php:1223
+msgid "1 comment"
+msgstr ""
+
+#: ../naturecircle/comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: ../naturecircle/content-audio.php:30 ../naturecircle/content-audio.php:70
+#: ../naturecircle/content-gallery.php:30 ../naturecircle/content-gallery.php:70
+#: ../naturecircle/content-image.php:31 ../naturecircle/content-image.php:72
+#: ../naturecircle/content-video.php:29 ../naturecircle/content-video.php:69
+#: ../naturecircle/content.php:32 ../naturecircle/content.php:72
+msgid "By"
+msgstr ""
+
+#: ../naturecircle/content-audio.php:87 ../naturecircle/content-gallery.php:87
+#: ../naturecircle/content-image.php:89 ../naturecircle/content-video.php:87
+#: ../naturecircle/content.php:89
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../naturecircle/content-audio.php:88 ../naturecircle/content-gallery.php:88
+#: ../naturecircle/content-image.php:90 ../naturecircle/content-page.php:20
+#: ../naturecircle/content-video.php:88 ../naturecircle/content.php:90
+#: ../naturecircle/image.php:122
+msgid "Pages:"
+msgstr ""
+
+#: ../naturecircle/content-audio.php:94 ../naturecircle/content-gallery.php:93
+#: ../naturecircle/content-image.php:95 ../naturecircle/content-video.php:93
+#: ../naturecircle/content.php:95
+msgid "Read more"
+msgstr ""
+
+#: ../naturecircle/content-audio.php:112 ../naturecircle/content-gallery.php:111
+#: ../naturecircle/content-image.php:114 ../naturecircle/content-video.php:110
+#: ../naturecircle/content.php:112
+msgid "About the Author:"
+msgstr ""
+
+#: ../naturecircle/content-audio.php:125 ../naturecircle/content-gallery.php:124
+#: ../naturecircle/content-image.php:127 ../naturecircle/content-video.php:123
+#: ../naturecircle/content.php:125
+msgid "Related posts"
+msgstr ""
+
+#: ../naturecircle/content-none.php:13 ../naturecircle/index.php:116
+#: ../naturecircle/search.php:83
+msgid "Nothing Found"
+msgstr ""
+
+#: ../naturecircle/content-none.php:17 ../naturecircle/index.php:120
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../naturecircle/footer.php:42
+msgid "Copyright"
+msgstr ""
+
+#: ../naturecircle/footer.php:42
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../naturecircle/functions.php:230 ../naturecircle/functions.php:767
+#: ../naturecircle/functions.php:773 ../naturecircle/functions.php:777
+msgid "Search..."
+msgstr ""
+
+#: ../naturecircle/functions.php:236 ../naturecircle/functions.php:255
+msgid "search"
+msgstr ""
+
+#: ../naturecircle/functions.php:249 ../naturecircle/functions.php:751
+#: ../naturecircle/functions.php:757 ../naturecircle/functions.php:761
+msgid "Search product..."
+msgstr ""
+
+#: ../naturecircle/functions.php:406
+msgid "Primary Menu"
+msgstr ""
+
+#: ../naturecircle/functions.php:407
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../naturecircle/functions.php:408
+msgid "Top Menu"
+msgstr ""
+
+#: ../naturecircle/functions.php:409 ../naturecircle/include/map_shortcodes.php:126
+msgid "Categories Menu"
+msgstr ""
+
+#: ../naturecircle/functions.php:856
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../naturecircle/functions.php:858
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../naturecircle/functions.php:866
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../naturecircle/functions.php:868
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+
+#: ../naturecircle/functions.php:876
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../naturecircle/functions.php:878
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../naturecircle/functions.php:956 ../naturecircle/functions.php:1006
+msgid "Home"
+msgstr ""
+
+#: ../naturecircle/functions.php:992 ../naturecircle/functions.php:993
+#: ../naturecircle/functions.php:994
+#, php-format
+msgid "Archive for: %s"
+msgstr ""
+
+#: ../naturecircle/functions.php:993
+msgid "F Y"
+msgstr ""
+
+#: ../naturecircle/functions.php:994
+msgid "Y"
+msgstr ""
+
+#: ../naturecircle/functions.php:995
+msgid "Archive for"
+msgstr ""
+
+#: ../naturecircle/functions.php:996
+msgid "Blog Archives"
+msgstr ""
+
+#: ../naturecircle/functions.php:997
+msgid "Search Results"
+msgstr ""
+
+#: ../naturecircle/functions.php:1081
+msgid "on"
+msgstr ""
+
+#: ../naturecircle/functions.php:1112 ../naturecircle/single.php:82
+msgid "Post navigation"
+msgstr ""
+
+#: ../naturecircle/functions.php:1113
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../naturecircle/functions.php:1114
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../naturecircle/functions.php:1131
+msgid "Previous"
+msgstr ""
+
+#: ../naturecircle/functions.php:1132
+msgid "Next"
+msgstr ""
+
+#: ../naturecircle/functions.php:1156
+msgid "Pingback:"
+msgstr ""
+
+#: ../naturecircle/functions.php:1156
+msgid "(Edit)"
+msgstr ""
+
+#: ../naturecircle/functions.php:1175
+msgid "Post author"
+msgstr ""
+
+#: ../naturecircle/functions.php:1180
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../naturecircle/functions.php:1184
+msgid "Reply"
+msgstr ""
+
+#: ../naturecircle/functions.php:1188
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../naturecircle/functions.php:1193 ../naturecircle/image.php:149
+msgid "Edit"
+msgstr ""
+
+#: ../naturecircle/functions.php:1219
+msgid "0 comments"
+msgstr ""
+
+#: ../naturecircle/functions.php:1221 ../naturecircle/functions.php:1272
+msgid " comments"
+msgstr ""
+
+#: ../naturecircle/functions.php:1230 ../naturecircle/functions.php:1234
+#, php-format
+msgid "Tags: %2$s"
+msgstr ""
+
+#: ../naturecircle/functions.php:1232
+#, php-format
+msgid "%1$s / Tags: %2$s"
+msgstr ""
+
+#: ../naturecircle/functions.php:1236 ../naturecircle/functions.php:1279
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../naturecircle/functions.php:1248
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../naturecircle/functions.php:1252
+#, php-format
+msgid "Posted by %1$s  %2$s"
+msgstr ""
+
+#: ../naturecircle/functions.php:1270
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../naturecircle/functions.php:1274
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../naturecircle/functions.php:1290
+msgid "Plazathemes Helper"
+msgstr ""
+
+#: ../naturecircle/functions.php:1300
+msgid "Mega Main Menu"
+msgstr ""
+
+#: ../naturecircle/functions.php:1307
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../naturecircle/functions.php:1321
+msgid "Visual Composer"
+msgstr ""
+
+#: ../naturecircle/functions.php:1328
+msgid "Templatera"
+msgstr ""
+
+#: ../naturecircle/functions.php:1335
+msgid "Essential Grid"
+msgstr ""
+
+#: ../naturecircle/functions.php:1344
+msgid "Redux Framework"
+msgstr ""
+
+#: ../naturecircle/functions.php:1351
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../naturecircle/functions.php:1357
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../naturecircle/functions.php:1362
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: ../naturecircle/functions.php:1367
+msgid "Simple Local Avatars"
+msgstr ""
+
+#: ../naturecircle/functions.php:1372 ../naturecircle/include/map_shortcodes.php:334
+#: ../naturecircle/theme-config.php:1164
+msgid "Testimonials"
+msgstr ""
+
+#: ../naturecircle/functions.php:1377
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: ../naturecircle/functions.php:1382
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../naturecircle/functions.php:1387
+msgid "WooCommerce"
+msgstr ""
+
+#: ../naturecircle/functions.php:1392
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: ../naturecircle/functions.php:1397
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../naturecircle/functions.php:1402
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../naturecircle/functions.php:1440
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../naturecircle/header.php:70
+msgid "menu"
+msgstr ""
+
+#: ../naturecircle/image.php:138
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date"
+"\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title="
+"\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%8$s</a>."
+msgstr ""
+
+#: ../naturecircle/image.php:159
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../naturecircle/image.php:160
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:7
+msgid "Yes"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:8
+msgid "No"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:13
+msgid "Fade"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:14
+msgid "Slide"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:20
+msgid "Enable slider"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:24 ../naturecircle/include/map_shortcodes.php:30
+#: ../naturecircle/include/map_shortcodes.php:37 ../naturecircle/include/map_shortcodes.php:44
+#: ../naturecircle/include/map_shortcodes.php:51 ../naturecircle/include/map_shortcodes.php:58
+#: ../naturecircle/include/map_shortcodes.php:67 ../naturecircle/include/map_shortcodes.php:75
+#: ../naturecircle/include/map_shortcodes.php:83 ../naturecircle/include/map_shortcodes.php:90
+#: ../naturecircle/include/map_shortcodes.php:97 ../naturecircle/include/map_shortcodes.php:105
+msgid "Slider Options"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:28
+msgid "Items Default"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:35
+msgid "Item Desktop"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:42
+msgid "Item Small"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:49
+msgid "Item Tablet"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:56
+msgid "Item Mobile"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:63
+msgid "Navigation"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:71
+msgid "Pagination"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:79
+msgid "Speed sider"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:87
+msgid "Slider Auto"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:94
+msgid "Slider loop"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:101
+msgid "Effects"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:117
+msgid "Main Menu"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:120
+#: ../naturecircle/include/map_shortcodes.php:129
+#: ../naturecircle/include/map_shortcodes.php:140
+#: ../naturecircle/include/map_shortcodes.php:150
+#: ../naturecircle/include/map_shortcodes.php:160
+#: ../naturecircle/include/map_shortcodes.php:195
+#: ../naturecircle/include/map_shortcodes.php:229
+#: ../naturecircle/include/map_shortcodes.php:248
+#: ../naturecircle/include/map_shortcodes.php:289
+#: ../naturecircle/include/map_shortcodes.php:337
+#: ../naturecircle/include/map_shortcodes.php:407
+#: ../naturecircle/include/map_shortcodes.php:425
+#: ../naturecircle/include/map_shortcodes.php:459
+#: ../naturecircle/include/map_shortcodes.php:727
+msgid "Theme"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:137
+msgid "Mini Cart"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:147
+msgid "Product Search"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:157 ../naturecircle/theme-config.php:826
+msgid "Brand Logos"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:167
+#: ../naturecircle/include/map_shortcodes.php:202
+#: ../naturecircle/include/map_shortcodes.php:312
+msgid "Number of columns"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:169
+#: ../naturecircle/include/map_shortcodes.php:204
+msgid "6"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:175
+#: ../naturecircle/include/map_shortcodes.php:210
+#: ../naturecircle/include/map_shortcodes.php:320
+msgid "Number of rows"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:192
+msgid "Categories Carousel"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:226
+msgid "Newsletter Form (MailPoet)"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:235
+msgid "Form ID"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:238
+msgid "Enter form ID here"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:245
+msgid "Time Sale"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:254
+msgid "Date Sale"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:255
+msgid "Date Sale M-D-Y. example: 06-16-2030"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:261
+msgid "The image"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:264
+msgid "Enter description."
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:270
+msgid "Short description"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:277
+msgid "URL"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:278
+msgid "Link go to sale page"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:286
+msgid "Latest posts"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:295
+msgid "Number of posts"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:297
+msgid "5"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:304
+msgid "Excerpt length"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:306
+msgid "20"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:314
+msgid "4"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:343
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:345
+msgid "10"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:351
+msgid "Display Author"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:362
+msgid "Display Avatar"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:373
+msgid "Avatar image size"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:376
+msgid "Avatar image size in pixels. Default is 50"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:382
+msgid "Display URL"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:393 ../naturecircle/include/shortcodes.php:49
+#: ../naturecircle/include/vertical_menu_widgets.php:53
+msgid "Category"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:395
+msgid "0"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:396
+msgid "ID/slug of the category. Default is 0"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:404
+msgid "Rotating tweets"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:413
+msgid "Twitter user name"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:422
+msgid "Twitter feed"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:431
+msgid "Your Twitter Name(Without the \"@\" symbol)"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:439
+msgid "Number Of Tweets"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:456
+msgid "Google map"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:465
+msgid "Map Height"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:467
+msgid "400"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:468
+msgid "Map height in pixels. Default is 400"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:474
+msgid "Map Zoom"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:476
+msgid "17"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:477
+msgid "Map zoom level, min 0, max 21. Default is 17"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:483
+#: ../naturecircle/include/map_shortcodes.php:531
+#: ../naturecircle/include/map_shortcodes.php:579
+#: ../naturecircle/include/map_shortcodes.php:627
+#: ../naturecircle/include/map_shortcodes.php:675
+msgid "Latitude"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:492
+#: ../naturecircle/include/map_shortcodes.php:540
+#: ../naturecircle/include/map_shortcodes.php:588
+#: ../naturecircle/include/map_shortcodes.php:636
+#: ../naturecircle/include/map_shortcodes.php:684
+msgid "Longtitude"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:501
+#: ../naturecircle/include/map_shortcodes.php:549
+#: ../naturecircle/include/map_shortcodes.php:597
+#: ../naturecircle/include/map_shortcodes.php:645
+#: ../naturecircle/include/map_shortcodes.php:693
+msgid "Address"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:504
+#: ../naturecircle/include/map_shortcodes.php:552
+#: ../naturecircle/include/map_shortcodes.php:600
+#: ../naturecircle/include/map_shortcodes.php:648
+#: ../naturecircle/include/map_shortcodes.php:696
+msgid "If you donot enter coordinate, enter address here"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:511
+#: ../naturecircle/include/map_shortcodes.php:559
+#: ../naturecircle/include/map_shortcodes.php:607
+#: ../naturecircle/include/map_shortcodes.php:655
+#: ../naturecircle/include/map_shortcodes.php:703
+msgid "Marker image"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:514
+msgid "Upload marker image, image size: 40x46 px"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:521
+#: ../naturecircle/include/map_shortcodes.php:569
+#: ../naturecircle/include/map_shortcodes.php:617
+#: ../naturecircle/include/map_shortcodes.php:665
+#: ../naturecircle/include/map_shortcodes.php:713 ../naturecircle/theme-config.php:837
+msgid "Description"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:524
+msgid "Allowed HTML tags: a, i, em, br, strong, h1, h2, h3"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:562
+#: ../naturecircle/include/map_shortcodes.php:610
+#: ../naturecircle/include/map_shortcodes.php:658
+#: ../naturecircle/include/map_shortcodes.php:706
+msgid "Upload marker image"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:572
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h2, h2, h3"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:620
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h3, h3, h3"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:668
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h4, h4, h4"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:716
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h5, h5, h5"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:724
+msgid "Counter"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:733
+msgid "Image icon"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:736
+msgid "Upload icon image"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:742
+msgid "Number"
+msgstr ""
+
+#: ../naturecircle/include/map_shortcodes.php:750
+msgid "Text"
+msgstr ""
+
+#: ../naturecircle/include/naturecirclewidgets.php:8
+msgid "Naturecircle Widgets"
+msgstr ""
+
+#: ../naturecircle/include/naturecirclewidgets.php:11
+msgid "Display recent posts, comments, popular posts"
+msgstr ""
+
+#: ../naturecircle/include/naturecirclewidgets.php:128
+msgid "says"
+msgstr ""
+
+#: ../naturecircle/include/naturecirclewidgets.php:169
+#: ../naturecircle/include/vertical_menu_widgets.php:88
+msgid "Title:"
+msgstr ""
+
+#: ../naturecircle/include/naturecirclewidgets.php:173
+msgid "Amount:"
+msgstr ""
+
+#: ../naturecircle/include/naturecirclewidgets.php:177
+msgid "Image size (example: 50,50):"
+msgstr ""
+
+#: ../naturecircle/include/naturecirclewidgets.php:181
+msgid "Widget Type:"
+msgstr ""
+
+#: ../naturecircle/include/naturecirclewidgets.php:183
+msgid "Recent Posts"
+msgstr ""
+
+#: ../naturecircle/include/naturecirclewidgets.php:184
+msgid "Popular Posts"
+msgstr ""
+
+#: ../naturecircle/include/naturecirclewidgets.php:185
+msgid "Recent Comments"
+msgstr ""
+
+#: ../naturecircle/include/shortcodes.php:53
+#: ../naturecircle/include/vertical_menu_widgets.php:57
+msgid "More Categories"
+msgstr ""
+
+#: ../naturecircle/include/shortcodes.php:54
+#: ../naturecircle/include/vertical_menu_widgets.php:58
+msgid "Close Menu"
+msgstr ""
+
+#: ../naturecircle/include/shortcodes.php:245
+msgid "shopping now"
+msgstr ""
+
+#: ../naturecircle/include/shortcodes.php:318
+msgid "By "
+msgstr ""
+
+#: ../naturecircle/include/vertical_menu_widgets.php:8
+msgid "Vertial Menu Widgets"
+msgstr ""
+
+#: ../naturecircle/include/vertical_menu_widgets.php:11
+msgid "Display vertical menu"
+msgstr ""
+
+#: ../naturecircle/include/wooajax.php:114 ../naturecircle/woocommerce/cart/mini-cart.php:32
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../naturecircle/include/wooajax.php:132
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../naturecircle/include/wooajax.php:153 ../naturecircle/woocommerce/cart/mini-cart.php:87
+msgid "View Cart"
+msgstr ""
+
+#: ../naturecircle/index.php:105
+msgid "No posts to display"
+msgstr ""
+
+#: ../naturecircle/index.php:109
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../naturecircle/projects/archive-project.php:25
+#: ../naturecircle/projects/content-single-project.php:24
+msgid "Portfolio"
+msgstr ""
+
+#: ../naturecircle/projects/archive-project.php:81
+msgid "All"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:216
+msgid "Invalid URL Provided."
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:222
+msgid "Could not create Temporary file."
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:351
+#: ../naturecircle/road_importdata/importer.php:399
+#: ../naturecircle/road_importdata/importer.php:403
+#: ../naturecircle/road_importdata/importer.php:412
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:404
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that this was caused by "
+"a permissions problem."
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:420
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the importer. Please "
+"consider updating."
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:470
+msgid "Assign Authors"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:471
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want to reassign "
+"the author of the imported item to an existing user of this site. For example, you may want "
+"to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:473
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly generated and the new "
+"user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be "
+"necessary."
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:483
+msgid "Import Attachments"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:486
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:490
+msgid "Submit"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:503
+msgid "Import author:"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:514
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:517
+msgid "as a new user:"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:525
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:527
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:528
+msgid "- Select -"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:578
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1080
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1161
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1187
+msgid "Invalid file type"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1234
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1240
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1247
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1252
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1258
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1358
+msgid "Import WordPress"
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1365
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to ensure "
+"compatibility with newer export files."
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1380
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, "
+"pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: ../naturecircle/road_importdata/importer.php:1381
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../naturecircle/road_importdata/parsers.php:42
+#: ../naturecircle/road_importdata/parsers.php:78
+#: ../naturecircle/road_importdata/parsers.php:87
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../naturecircle/road_importdata/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: ../naturecircle/road_importdata/parsers.php:91
+#: ../naturecircle/road_importdata/parsers.php:96
+#: ../naturecircle/road_importdata/parsers.php:291
+#: ../naturecircle/road_importdata/parsers.php:476
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../naturecircle/search.php:69
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../naturecircle/search.php:87
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: ../naturecircle/single.php:83
+msgid "&larr;"
+msgstr ""
+
+#: ../naturecircle/single.php:84
+msgid "&rarr;"
+msgstr ""
+
+#: ../naturecircle/tag.php:75
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:96
+msgid "Section via hook"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:97
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the sections array. "
+"Can be used by child themes to add/remove sections from the options.</p>"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:149
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:156 ../naturecircle/theme-config.php:159
+msgid "Current theme preview"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:166
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:167
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:168
+msgid "Tags"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:173
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:173
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:189
+msgid "General"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:190
+msgid "General theme options"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:197
+msgid "Body background"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:198
+msgid "Upload image or select color. Only work with box layout"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:205
+msgid "Wrapper background"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:206
+msgid "Upload image or select color. Background of page wrapper"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:213
+msgid "Page content background"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:214
+msgid "Select background for page content (default: #f6f5f1)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:221
+msgid "Border Option"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:222
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:228
+msgid "Back To Top"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:229
+msgid "Show back to top button on all pages"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:236
+msgid "Colors"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:237
+msgid "Color options"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:243
+msgid "Primary Color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:244
+msgid "Pick a color for primary color (default: #78a206)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:254
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:255
+msgid "Pick a color for bg sale label (default: #78a206)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:265
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:266
+msgid "Pick a color for sale label text (default: #ffffff)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:276
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:277
+msgid "Pick a color for star of rating (default: #e9b528)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:286
+msgid "Link Color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:287
+msgid "Pick a color for link (default: #78a206)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:298
+msgid "Text selected background"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:299
+msgid "Select background for selected text (default: #91b2c3)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:307
+msgid "Text selected color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:308
+msgid "Select color for selected text (default: #ffffff)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:336
+msgid "Header"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:337
+msgid "Header options"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:344
+msgid "Header Layout"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:346 ../naturecircle/theme-config.php:604
+msgid "Go to Visual Composer => Templates to create/edit layout"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:355
+msgid "Header background"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:356 ../naturecircle/theme-config.php:614
+#: ../naturecircle/theme-config.php:1198
+msgid "Upload image or select color."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:364
+msgid "Header text color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:365
+msgid "Pick a color for top bar text color (default: #252525)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:374
+msgid "Header link color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:375
+msgid "Pick a color for header link color (default: #252525)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:390
+msgid "Sticky header"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:396
+msgid "Use sticky header"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:402
+msgid "Header sticky background"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:432
+msgid "Menu"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:438
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:439
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:446
+msgid "Submenu background"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:447
+msgid "Pick a color for sub menu bg (default: #ffffff)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:456
+msgid "Submenu color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:457
+msgid "Pick a color for sub menu color (default: #7a7a7a)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:466
+msgid "Vertical Menu"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:473
+msgid "Category menu background"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:474
+msgid "Pick a color for category menu background (default: #ffffff)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:482
+msgid "Category menu label"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:483
+msgid "The label for category menu"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:489
+msgid "Number of items"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:490
+msgid "Number of menu items level 1 to show, default value: 8"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:500
+msgid "More items label"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:501
+msgid "The label for more items button"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:507
+msgid "Less items label"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:508
+msgid "The label for less items button"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:514
+msgid "Home Category Menu"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:515
+msgid "Always show category menu on home page"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:521
+msgid "Inner Category Menu"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:522
+msgid "Always show category menu on inner pages"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:530 ../naturecircle/theme-config.php:537
+msgid "Social Icons"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:538
+msgid "Enter social links"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:539
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:594
+msgid "Footer"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:595
+msgid "Footer options"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:602
+msgid "Footer Layout"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:613
+msgid "Footer background"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:622
+msgid "Footer text color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:623
+msgid "Pick a color for top bar text color (default: #696969)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:632
+msgid "Footer link color"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:633
+msgid "Pick a color for footer link color (default: #696969)."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:646
+msgid "Fonts"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:647
+msgid "Fonts options"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:654
+msgid "Body font"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:671
+msgid "Main body font."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:684
+msgid "Heading font"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:701
+msgid "Heading font."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:712
+msgid "Menu font"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:729
+msgid "Menu font."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:741
+msgid "Price font"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:758
+msgid "Price font."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:772
+msgid "Layout"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:773
+msgid "Select page layout: Box or Full Width"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:780
+msgid "Page Layout"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:790
+msgid "Box layout width"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:791
+msgid "Box layout width in pixels, default value: 1290"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:801
+msgid "Preset"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:802
+msgid "Select a preset to quickly apply pre-defined colors and fonts"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:817
+msgid "Show Style Switcher"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:818
+msgid "The style switcher is only for preview on front-end"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:827
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:833
+msgid "Logos"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:834
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:836 ../naturecircle/theme-config.php:856
+#: ../naturecircle/woocommerce/class-wc-widget-cart.php:30
+msgid "Title"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:838 ../naturecircle/theme-config.php:858
+msgid "Link"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:846
+msgid "Categories carousel"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:847
+msgid "Upload category logos and links"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:853 ../naturecircle/woocommerce/cart/cart.php:34
+msgid "Images"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:854
+msgid "Upload Categories image and enter categories link."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:857
+msgid "Number products"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:866
+msgid "Sidebar"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:867
+msgid "Sidebar options"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:874
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:875
+msgid "Sidebar on shop page"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:884
+msgid "Pages Sidebar Position"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:885
+msgid "Sidebar on pages"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:894
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:895
+msgid "Sidebar on Blog pages"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:904
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:905
+msgid "Add more sidebars"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:906
+msgid ""
+"Enter sidebar name (Only allow digits and letters). click Add more to add more sidebar. Edit "
+"your page to select a sidebar "
+msgstr ""
+
+#: ../naturecircle/theme-config.php:913 ../naturecircle/woocommerce/cart/cart.php:35
+#: ../naturecircle/woocommerce/cart/cart.php:68
+#: ../naturecircle/woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:914
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:920
+msgid "Shop Layout"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:930
+msgid "Shop default view"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:940
+msgid "Products per page"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:941
+msgid "Amount of products per page on category page"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:951
+msgid "Product columns"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:952
+msgid "Amount of product columns on category page"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:953 ../naturecircle/theme-config.php:965
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:963
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:964
+msgid "Amount of product columns on full width category page"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:975
+msgid "Excerpt length on Short decription product"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:985
+msgid "Use secondary product image"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:986
+msgid "Show the secondary image when hover on product on list"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:992 ../naturecircle/theme-config.php:1030
+msgid "Up-Sells title"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:998
+msgid "Cross-Sells title"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1008
+msgid "Product page"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1014
+msgid "Related products title"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1020
+msgid "Number of related products"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1036
+msgid "ShareThis/AddThis head tag"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1037
+msgid "Paste your ShareThis or AddThis head tag here"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1043
+msgid "ShareThis/AddThis code"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1044
+msgid "Paste your ShareThis or AddThis code here"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1051 ../naturecircle/theme-config.php:1070
+msgid "Quick View"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1057
+msgid "View details text"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1063
+msgid "View all features text"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1064
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1071
+msgid "Show quick view button on all pages"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1079
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1085
+msgid "Blog header text"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1091
+msgid "Blog Layout"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1103
+msgid "Blog Style"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1115
+msgid "Width of thumbnail category "
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1121
+msgid "Height of thumbnail category "
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1127
+msgid "Read more text"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1133
+msgid "Excerpt length on blog page"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1144
+msgid "Latest posts carousel"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1151
+msgid "Width of thumbnail "
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1157
+msgid "Height of thumbnail "
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1165
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1171
+msgid "Auto scroll"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1177
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1178
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1189
+msgid "Error 404 Page"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1190
+msgid "Error 404 page options"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1197
+msgid "Error 404 background"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1206
+msgid "Less Compiler"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1207
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have finished changing "
+"theme options and your site is ready."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1213
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1220
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1221
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1222
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1226
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1231
+msgid "Import / Export"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1232
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1247
+msgid "Theme Information"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1263
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1264 ../naturecircle/theme-config.php:1270
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1269
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1274
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../naturecircle/theme-config.php:1294 ../naturecircle/theme-config.php:1295
+msgid "Theme Options"
+msgstr ""
+
+#: ../naturecircle/woocommerce/archive-product.php:110
+msgid "View on"
+msgstr ""
+
+#: ../naturecircle/woocommerce/archive-product.php:111
+msgid "Grid"
+msgstr ""
+
+#: ../naturecircle/woocommerce/archive-product.php:112
+msgid "List"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:36 ../naturecircle/woocommerce/cart/cart.php:86
+msgid "Price"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:37 ../naturecircle/woocommerce/cart/cart.php:92
+msgid "Quantity"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:38 ../naturecircle/woocommerce/cart/cart.php:109
+#: ../naturecircle/woocommerce/checkout/review-order.php:18
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:43
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:66
+msgid "Total"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:39
+msgid "Delete"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:121
+#: ../naturecircle/woocommerce/cart/mini-cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:139
+msgid "Update cart"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:155
+msgid "Coupon"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:156
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:157
+msgid "Coupon code"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/cart.php:157
+msgid "Apply coupon"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/mini-cart.php:30
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/mini-cart.php:74
+msgid "You have no items in your shopping cart"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/mini-cart.php:75
+#: ../naturecircle/woocommerce/cart/mini-cart.php:81
+msgid "Subtotal"
+msgstr ""
+
+#: ../naturecircle/woocommerce/cart/mini-cart.php:86
+msgid "Checkout"
+msgstr ""
+
+#: ../naturecircle/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../naturecircle/woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: ../naturecircle/woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: ../naturecircle/woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: ../naturecircle/woocommerce/checkout/form-login.php:33
+msgid ""
+"If you have shopped with us before, please enter your details below. If you are a new "
+"customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: ../naturecircle/woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../naturecircle/woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../naturecircle/woocommerce/class-wc-widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../naturecircle/woocommerce/class-wc-widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../naturecircle/woocommerce/class-wc-widget-cart.php:29
+#: ../naturecircle/woocommerce/class-wc-widget-cart.php:54
+msgid "Cart"
+msgstr ""
+
+#: ../naturecircle/woocommerce/class-wc-widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:34
+msgid "Recent Orders"
+msgstr ""
+
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:40
+msgid "Order"
+msgstr ""
+
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:41
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:60
+msgid "Date"
+msgstr ""
+
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:55
+msgid "Order Number"
+msgstr ""
+
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:67
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:76
+msgid "Pay"
+msgstr ""
+
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:83
+msgid "Cancel"
+msgstr ""
+
+#: ../naturecircle/woocommerce/myaccount/my-orders.php:89
+msgid "View"
+msgstr ""
+
+#: ../naturecircle/woocommerce/single-product.php:25
+msgid "single product"
+msgstr ""
